@@ -1,0 +1,16 @@
+<list>
+  <empleado>
+    <id>3</id>
+    <nombre>Ramón</nombre>
+    <apellidos>Rojas</apellidos>
+    <departamento>Diseño</departamento>
+    <sueldo>0.0</sueldo>
+  </empleado>
+  <empleado>
+    <id>4</id>
+    <nombre>Alberto</nombre>
+    <apellidos>Jimenez</apellidos>
+    <departamento>Catering</departamento>
+    <sueldo>5778.89</sueldo>
+  </empleado>
+</list>
